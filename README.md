@@ -23,6 +23,7 @@ h('div#page',
     h('p', 
       "the intension is for this to be used to create\n",
       "reusable, interactive html widgets. "))
+// =>
 ```
 
 ## h (tag, attrs, [text?, Elements?,...])
